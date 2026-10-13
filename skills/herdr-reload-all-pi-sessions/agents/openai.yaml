@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reload All Herdr Pi Sessions"
+  short_description: "Reload every Pi session safely through Herdr"
+  default_prompt: "Use $herdr-reload-all-pi-sessions to reload every Pi session safely through Herdr."

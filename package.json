@@ -1,0 +1,17 @@
+{
+  "name": "@applifaction/public-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public collection of reusable Pi skills and safe automation workflows.",
+  "keywords": [
+    "pi-package",
+    "pi-skills",
+    "agent-skills",
+    "automation"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
