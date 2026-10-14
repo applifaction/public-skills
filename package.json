@@ -2,16 +2,11 @@
   "name": "@applifaction/public-skills",
   "version": "0.1.0",
   "private": true,
-  "description": "Public collection of reusable Pi skills and safe automation workflows.",
+  "description": "Archive of retired public Pi skills.",
   "keywords": [
     "pi-package",
     "pi-skills",
     "agent-skills",
     "automation"
-  ],
-  "pi": {
-    "skills": [
-      "./skills"
-    ]
-  }
+  ]
 }
